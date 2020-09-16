@@ -7,7 +7,7 @@ int main()
     float res = 1;
     float num=365;
     float n=365;
-
+// it`s important to set res,num,n to float data type
     while(res>0.5)
     {
         res *=(n/num);
